@@ -3,7 +3,7 @@ layout: default
 title: Louisiana IDeA Network
 ---
 
-#### About IDeA
+#### **About IDeA**
 
 NCRR's Institutional Development Award (IDeA) program broadens the geographic distribution of NIH funding for biomedical and behavioral research. You can learn more [here](http://www.ncrr.nih.gov/research_infrastructure/institutional_development_award/).
 
